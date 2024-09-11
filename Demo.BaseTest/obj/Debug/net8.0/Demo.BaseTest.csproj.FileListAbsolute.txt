@@ -1,0 +1,17 @@
+D:\faks\NaprednoSoftverskoInzenjerstvo\vezbe\DemoVezbanje\Demo.BaseTest\bin\Debug\net8.0\Demo.BaseTest.deps.json
+D:\faks\NaprednoSoftverskoInzenjerstvo\vezbe\DemoVezbanje\Demo.BaseTest\bin\Debug\net8.0\Demo.BaseTest.dll
+D:\faks\NaprednoSoftverskoInzenjerstvo\vezbe\DemoVezbanje\Demo.BaseTest\bin\Debug\net8.0\Demo.BaseTest.pdb
+D:\faks\NaprednoSoftverskoInzenjerstvo\vezbe\DemoVezbanje\Demo.BaseTest\bin\Debug\net8.0\Demo.Application.dll
+D:\faks\NaprednoSoftverskoInzenjerstvo\vezbe\DemoVezbanje\Demo.BaseTest\bin\Debug\net8.0\Demo.Domain.dll
+D:\faks\NaprednoSoftverskoInzenjerstvo\vezbe\DemoVezbanje\Demo.BaseTest\bin\Debug\net8.0\Demo.Application.pdb
+D:\faks\NaprednoSoftverskoInzenjerstvo\vezbe\DemoVezbanje\Demo.BaseTest\bin\Debug\net8.0\Demo.Domain.pdb
+D:\faks\NaprednoSoftverskoInzenjerstvo\vezbe\DemoVezbanje\Demo.BaseTest\obj\Debug\net8.0\Demo.BaseTest.csproj.AssemblyReference.cache
+D:\faks\NaprednoSoftverskoInzenjerstvo\vezbe\DemoVezbanje\Demo.BaseTest\obj\Debug\net8.0\Demo.BaseTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\faks\NaprednoSoftverskoInzenjerstvo\vezbe\DemoVezbanje\Demo.BaseTest\obj\Debug\net8.0\Demo.BaseTest.AssemblyInfoInputs.cache
+D:\faks\NaprednoSoftverskoInzenjerstvo\vezbe\DemoVezbanje\Demo.BaseTest\obj\Debug\net8.0\Demo.BaseTest.AssemblyInfo.cs
+D:\faks\NaprednoSoftverskoInzenjerstvo\vezbe\DemoVezbanje\Demo.BaseTest\obj\Debug\net8.0\Demo.BaseTest.csproj.CoreCompileInputs.cache
+D:\faks\NaprednoSoftverskoInzenjerstvo\vezbe\DemoVezbanje\Demo.BaseTest\obj\Debug\net8.0\Demo.Bas.DCCC5A97.Up2Date
+D:\faks\NaprednoSoftverskoInzenjerstvo\vezbe\DemoVezbanje\Demo.BaseTest\obj\Debug\net8.0\Demo.BaseTest.dll
+D:\faks\NaprednoSoftverskoInzenjerstvo\vezbe\DemoVezbanje\Demo.BaseTest\obj\Debug\net8.0\refint\Demo.BaseTest.dll
+D:\faks\NaprednoSoftverskoInzenjerstvo\vezbe\DemoVezbanje\Demo.BaseTest\obj\Debug\net8.0\Demo.BaseTest.pdb
+D:\faks\NaprednoSoftverskoInzenjerstvo\vezbe\DemoVezbanje\Demo.BaseTest\obj\Debug\net8.0\ref\Demo.BaseTest.dll

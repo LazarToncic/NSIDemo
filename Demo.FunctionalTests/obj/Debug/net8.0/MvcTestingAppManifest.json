@@ -1,0 +1,7 @@
+{
+  "Demo.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\faks\\NaprednoSoftverskoInzenjerstvo\\vezbe\\DemoVezbanje\\Demo.Api",
+  "Demo.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\faks\\NaprednoSoftverskoInzenjerstvo\\vezbe\\DemoVezbanje\\Demo.Application",
+  "Demo.BaseTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\faks\\NaprednoSoftverskoInzenjerstvo\\vezbe\\DemoVezbanje\\Demo.BaseTest",
+  "Demo.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\faks\\NaprednoSoftverskoInzenjerstvo\\vezbe\\DemoVezbanje\\Demo.Domain",
+  "Demo.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\faks\\NaprednoSoftverskoInzenjerstvo\\vezbe\\DemoVezbanje\\Demo.Infrastructure"
+}

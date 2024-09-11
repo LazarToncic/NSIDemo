@@ -1,0 +1,12 @@
+D:\faks\NaprednoSoftverskoInzenjerstvo\vezbe\DemoVezbanje\Demo.Domain\bin\Debug\net8.0\Demo.Domain.deps.json
+D:\faks\NaprednoSoftverskoInzenjerstvo\vezbe\DemoVezbanje\Demo.Domain\bin\Debug\net8.0\Demo.Domain.dll
+D:\faks\NaprednoSoftverskoInzenjerstvo\vezbe\DemoVezbanje\Demo.Domain\bin\Debug\net8.0\Demo.Domain.pdb
+D:\faks\NaprednoSoftverskoInzenjerstvo\vezbe\DemoVezbanje\Demo.Domain\obj\Debug\net8.0\Demo.Domain.csproj.AssemblyReference.cache
+D:\faks\NaprednoSoftverskoInzenjerstvo\vezbe\DemoVezbanje\Demo.Domain\obj\Debug\net8.0\Demo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\faks\NaprednoSoftverskoInzenjerstvo\vezbe\DemoVezbanje\Demo.Domain\obj\Debug\net8.0\Demo.Domain.AssemblyInfoInputs.cache
+D:\faks\NaprednoSoftverskoInzenjerstvo\vezbe\DemoVezbanje\Demo.Domain\obj\Debug\net8.0\Demo.Domain.AssemblyInfo.cs
+D:\faks\NaprednoSoftverskoInzenjerstvo\vezbe\DemoVezbanje\Demo.Domain\obj\Debug\net8.0\Demo.Domain.csproj.CoreCompileInputs.cache
+D:\faks\NaprednoSoftverskoInzenjerstvo\vezbe\DemoVezbanje\Demo.Domain\obj\Debug\net8.0\Demo.Domain.dll
+D:\faks\NaprednoSoftverskoInzenjerstvo\vezbe\DemoVezbanje\Demo.Domain\obj\Debug\net8.0\refint\Demo.Domain.dll
+D:\faks\NaprednoSoftverskoInzenjerstvo\vezbe\DemoVezbanje\Demo.Domain\obj\Debug\net8.0\Demo.Domain.pdb
+D:\faks\NaprednoSoftverskoInzenjerstvo\vezbe\DemoVezbanje\Demo.Domain\obj\Debug\net8.0\ref\Demo.Domain.dll
