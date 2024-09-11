@@ -3,15 +3,11 @@ using System.Net.Http.Json;
 using System.Text;
 using System.Text.Json;
 using Demo.Application.Common.Dto.Product;
-using Demo.Application.Common.Interfaces;
-using Demo.Application.Products.Commands;
 using Demo.BaseTest.Builders.Commands;
 using Demo.BaseTest.Builders.Domain;
 using Demo.BaseTest.Builders.Dto;
-using Demo.Infrastructure.Contexts;
 using FluentAssertions;
 using FluentAssertions.Execution;
-using Microsoft.OpenApi.Extensions;
 using Moq;
 
 namespace Demo.FunctionalTests.Products.Commands;
