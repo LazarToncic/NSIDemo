@@ -17,3 +17,4 @@ D:\faks\NaprednoSoftverskoInzenjerstvo\vezbe\DemoVezbanje\Demo.Infrastructure\ob
 D:\faks\NaprednoSoftverskoInzenjerstvo\vezbe\DemoVezbanje\Demo.Infrastructure\obj\Debug\net8.0\Demo.Infrastructure.pdb
 D:\faks\NaprednoSoftverskoInzenjerstvo\vezbe\DemoVezbanje\Demo.Infrastructure\obj\Debug\net8.0\Demo.Infrastructure.genruntimeconfig.cache
 D:\faks\NaprednoSoftverskoInzenjerstvo\vezbe\DemoVezbanje\Demo.Infrastructure\obj\Debug\net8.0\ref\Demo.Infrastructure.dll
+D:\faks\NaprednoSoftverskoInzenjerstvo\vezbe\DemoVezbanje\Demo.Infrastructure\obj\Debug\net8.0\Demo.Infrastructure.sourcelink.json

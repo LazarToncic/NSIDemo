@@ -13,3 +13,4 @@ D:\faks\NaprednoSoftverskoInzenjerstvo\vezbe\DemoVezbanje\Demo.Application\obj\D
 D:\faks\NaprednoSoftverskoInzenjerstvo\vezbe\DemoVezbanje\Demo.Application\obj\Debug\net8.0\refint\Demo.Application.dll
 D:\faks\NaprednoSoftverskoInzenjerstvo\vezbe\DemoVezbanje\Demo.Application\obj\Debug\net8.0\Demo.Application.pdb
 D:\faks\NaprednoSoftverskoInzenjerstvo\vezbe\DemoVezbanje\Demo.Application\obj\Debug\net8.0\ref\Demo.Application.dll
+D:\faks\NaprednoSoftverskoInzenjerstvo\vezbe\DemoVezbanje\Demo.Application\obj\Debug\net8.0\Demo.Application.sourcelink.json
