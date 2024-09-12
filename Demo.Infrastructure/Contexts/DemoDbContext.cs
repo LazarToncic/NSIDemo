@@ -19,7 +19,13 @@ public class DemoDbContext(DbContextOptions<DemoDbContext> options) : IdentityDb
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
-        optionsBuilder.UseNpgsql("Host=localhost;Username=postgres;Password=root;Database=DemoVezbanje");
+        
+        if (Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT") != "Test")
+        {
+            optionsBuilder.UseNpgsql("Host=localhost;Username=postgres;Password=root;Database=DemoVezbanje");
+        }
+        
+        //optionsBuilder.UseNpgsql("Host=localhost;Username=postgres;Password=root;Database=DemoVezbanje");
     }
 
     public DbSet<Product> Products => Set<Product>();
